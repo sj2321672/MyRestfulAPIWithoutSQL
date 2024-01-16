@@ -1,0 +1,6 @@
+@MyRestfulAPIWithoutSQL_HostAddress = http://localhost:5120
+
+GET {{MyRestfulAPIWithoutSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
